@@ -9,7 +9,7 @@ export default function Home() {
       {/* Header */}
       <header className='w-full bg-white shadow-md'>
         <div className='flex justify-between items-center px-1 py-4 mx-auto max-w-5xl'>
-          <Image src='/logo.svg' alt='Logo' width={120} height={40} />
+          <h1 className="font-bold text-[30px] text-[#704ef8]">AI_Generator</h1>
           <Link href='/dashboard'>
             <Button variant='outline'>Get Started</Button>
           </Link>
