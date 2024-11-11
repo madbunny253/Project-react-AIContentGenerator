@@ -34,7 +34,7 @@ function SideNav() {
     return (
         <div className='h-screen relative p-5 shadow-sm border bg-white'>
             <div className='flex justify-center'>
-            <h1 className="font-bold text-[30px] text-[#704ef8]">AI_Generator</h1>
+            <h1 className="font-extrabold text-[30px] text-[#704ef8]">ContentdotAI</h1>
             </div>
             <hr className='my-6 border'/>
             <div className='mt-3'>
